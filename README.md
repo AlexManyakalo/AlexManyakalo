@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alexander 👋</h1>
-My name is Manyakalo Alexander, I am passionate about creating user-friendly and beautiful interfaces. I study HTML, CSS, JavaScript and Vuu.js, I am constantly developing and looking for new tasks for growth.
+My name is Manyakalo Alexander, I am passionate about creating user-friendly and beautiful interfaces. I study HTML, CSS, JavaScript and Vue.js, I am constantly developing and looking for new tasks for growth.
 
 ## 💻 Tech Stack
 <a href="https://www.codewars.com/users/AR1D"><img src="https://www.codewars.com/users/AR1D/badges/micro"/></a><br/>
